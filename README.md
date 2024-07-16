@@ -16,11 +16,8 @@ A modern and stylish calculator built using HTML, CSS, and JavaScript.
 
 
 
-https://github.com/DhivijaMacharla/calculator/issues/1#issue-2411474155
 
-
-
-
+![Screenshot 2024-07-16 205807](https://github.com/user-attachments/assets/4f1a7c10-a088-470c-80df-bd966254e8d7)
 
 
 
