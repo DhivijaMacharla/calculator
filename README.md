@@ -16,6 +16,18 @@ A modern and stylish calculator built using HTML, CSS, and JavaScript.
 
 
 
+https://github.com/DhivijaMacharla/calculator/issues/1#issue-2411474155
+
+
+
+
+
+
+
+
+![Screenshot 2024-07-16 205818](https://github.com/user-attachments/assets/fd18acc0-8ab9-4a58-989e-6ec126c43a10)
+
+
 ## Getting Started
 
 ### Prerequisites
