@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container align-center">
+        <div class="grid calculator">
+            <!-- Output Screen -->
+            <input type="text" id="output-screen" readonly placeholder="0">
+            
+            <!-- Calculator Buttons -->
+            <button class="text-color" onclick="allClear()">C</button>
+            <button class="text-color" onclick="deleteLast()">DEL</button>
+            <button class="text-color" onclick="display('%')">%</button>
+            <button class="text-color" onclick="display('/')">&#247;</button>
+
+            <button class="text-color" onclick="display(7)">7</button>
+            <button class="text-color" onclick="display(8)">8</button>
+            <button class="text-color" onclick="display(9)">9</button>
+            <button class="text-color" onclick="display('*')">x</button>
+
+            <button class="text-color" onclick="display(4)">4</button>
+            <button class="text-color" onclick="display(5)">5</button>
+            <button class="text-color" onclick="display(6)">6</button>
+            <button class="text-color" onclick="display('-')">-</button>
+
+            <button class="text-color" onclick="display(1)">1</button>
+            <button class="text-color" onclick="display(2)">2</button>
+            <button class="text-color" onclick="display(3)">3</button>
+
+            <button class="text-color" onclick="display('+')">+</button>
+
+            <button class="text-color" onclick="display('.')">.</button>
+
+            <button onclick="display(0)">0</button>
+
+            <button class="equal-to" onclick="calculate()">=</button>
+        </div>
+    </div>
+    <script src="script.js"></script> 
+</body>
+</html>
