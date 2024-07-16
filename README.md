@@ -1,4 +1,4 @@
-# Modern Calculator
+![Screenshot 2024-07-16 204754](https://github.com/user-attachments/assets/5d6c3579-a6c2-423f-b752-f8043417b136)# Modern Calculator
 
 A modern and stylish calculator built using HTML, CSS, and JavaScript.
 
@@ -11,6 +11,8 @@ A modern and stylish calculator built using HTML, CSS, and JavaScript.
 ## Demo
 
 ![Calculator Screenshot]
+
+
 
 
 
